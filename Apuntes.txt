@@ -1,0 +1,23 @@
+Email
+
+1- El usuario actualiza su correo en Fb, Twitter, Google+
+2- El usuario no tiene un correo asociado al proveedor
+
+1- 
+-> No actualizar su correo automáticamente.
+
+2- 
+
+-> Exigir al usuario usar un correo electrónico
+--> Paso intermedio para completar este dato
+--> Msje de validación diciendo que el inicio de sesión no tuvo éxito
+
+-> Permitir correos nulos
+--> Al iniciar sesión, ya no buscamos en base al email, sino también en base al ID del proveedor
+
+** No asociar automáticamente vía correo
+-> Considerar únicamente el ID devuelto por el proveedor
+
+** Tras iniciar sesión con 1 proveedor, permitir vincular otras ctas
+-> Si no lo hace, cuando inicie sesión, terminará creando una cta nueva
+-> Porq nuestra app no sabe que se trata de la misma persona
