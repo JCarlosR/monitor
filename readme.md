@@ -23,7 +23,7 @@ A continuación puedes ver una presentación en formato de video de lo que apren
 
 ## Contenido
 
-En el curso desarrollamos 3 juegos desde cero, aplicando los conceptos que vamos aprendiendo. 
+Desarrollemos un monitor de precios! Los usuarios ingresan vía redes sociales, ingresan datos y consultan reportes.
 
 - **Sección 1:** OAuth 2
 - **Sección 2:** Laravel Socialite y un primer proveedor
