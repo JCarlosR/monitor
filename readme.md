@@ -10,7 +10,7 @@ Para ello implementamos un inicio de sesión vía:
 
 - Facebook
 - Twitter
-- Google+
+- Google
 
 Sin embargo, el paquete que usamos también nos permitirá implementar un inicio de sesión con cualquier otro servicio que creamos conveniente (existen muchos más proveedores de OAuth además de los mencionados, tales como: Steam, Coursera, Dailymotion, Digital Ocean, Reddit, Slack, Spotify, Twitch, Vimeo, Weibo, Youtube, Uber).
 
@@ -19,7 +19,7 @@ Adicionalmente también vemos cómo generar reportes en formato CSV, cómo filtr
 
 A continuación puedes ver una presentación en formato de video de lo que aprenderás en el curso.
 
-[![Curso de Laravel y OAuth 2](https://udemy-images.udemy.com/course/750x422/1805100_1dfc.jpg)](https://www.youtube.com/watch?v=GTGQ8uG3MBI)
+[![Curso de Laravel y OAuth 2](https://res.cloudinary.com/pym/image/upload/c_scale,f_auto,q_auto,w_420/v1599162695/courses/OAuth.png)](https://www.youtube.com/watch?v=GTGQ8uG3MBI)
 
 ## Contenido
 
